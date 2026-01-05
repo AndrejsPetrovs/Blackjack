@@ -41,7 +41,7 @@ public class GameManager : MonoBehaviour
     private bool roundGoing = false;
     private Hand currentHand;
     private string[] messages;
-    [SerializeField] private int msgWindowSize = 5;
+    [SerializeField] private int msgWindowSize = 10;
     public int betmult = 1;
 
     // Stats
