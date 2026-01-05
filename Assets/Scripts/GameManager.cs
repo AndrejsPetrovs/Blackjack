@@ -1,16 +1,8 @@
 using System;
-using System.Collections;
 using System.Collections.Generic;
-using System.Collections.Specialized;
-using System.Net.Security;
-using System.Runtime.CompilerServices;
 using System.Threading.Tasks;
 using TMPro;
-using Unity.Mathematics;
-using Unity.VisualScripting;
-using UnityEditor;
 using UnityEngine;
-using UnityEngine.UI;
 
 public class GameManager : MonoBehaviour
 {
